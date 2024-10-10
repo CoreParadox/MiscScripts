@@ -19,7 +19,7 @@ Just some random scripts that are useful
         * Usage: `kill-razer.bat`
     *[restart_synapse_on_wake.bat](/AppSpecific/Razer/restart_synapse_on_wake.bat)
         * Meant to be used with task scheduler, restarts razer synapse on wake from sleep to resolve unresponsive keybinds and game detection
-        * Credit/Usage: [snuxs on Reddit](https://www.reddit.com/r/razer/comments/tfg0tj/simple_fix_for_synapse_3_bugging_after_sleep/)
+        * Credit/Usage: [snuxs on Reddit](https://www.reddit.com/r/razer/comments/tfg0tj/simple_fix_for_synapse_3_bugging_after_sleep)
     *[start-razer.bat](/AppSpecific/Razer/start-razer.bat)
         * starts razer synapse processes
         * Usage: `start-razer.bat`
